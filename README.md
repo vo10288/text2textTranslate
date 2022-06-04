@@ -1,4 +1,5 @@
 # text2textTranslate
+Translate from una directory with file .txt or .csv to another directory with file .txt translating in some language 
 
 text2textTranslate.py [-h] -d DIR [-i INPUT] [-o OUTPUT]
 
